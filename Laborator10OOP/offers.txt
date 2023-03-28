@@ -1,3 +1,0 @@
-Vacanta;Malibu;AllInclusive;4999
-Excursie;Cipru;AllInclusive;10
-Excursie;Hawaii;10Nopti;6999
