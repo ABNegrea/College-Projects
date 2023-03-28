@@ -1,0 +1,8 @@
+7c9e6679-7425-40de-944b-e07fc1f90ae7;Flaviu Gagicaru;Liceul cu Program Sportiv Cluj-Napoca;Washington Wizards
+53762c7c-9e4a-47ca-ac14-93124df605f6;Flaviu Bombardierul;Liceul cu Program Sportiv Cluj-Napoca;San Antonio Spurs
+7c9e6679-7415-40de-944b-e07fc1f90ae7;Alex Pop;Liceul cu Program Sportiv Cluj-Napoca;Washington Wizards
+7c9e6679-7425-40de-944b-e07fc1f90ae7;Andrei Negrea;Liceul cu Program Sportiv Cluj-Napoca;San Antonio Spurs
+7c9e6679-7435-40de-944b-e07fc1f90ae7;Mircea Enache;Liceul cu Program Sportiv Cluj-Napoca;Washington Wizards
+7c9e6679-7445-40de-944b-e07fc1f90ae7;Sabina Popoviciu;Liceul cu Program Sportiv Cluj-Napoca;San Antonio Spurs
+7c9e6679-7455-40de-944b-e07fc1f90ae7;Releu Solar;Liceul cu Program Sportiv Cluj-Napoca;Washington Wizards
+7c9e6679-7465-40de-944b-e07fc1f90ae7;Istvan Danci;Liceul cu Program Sportiv Cluj-Napoca;Washington Wizards

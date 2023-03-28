@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proiect_Bonus", "Proiect_Bonus\Proiect_Bonus.csproj", "{53E331D6-771C-4A60-8E65-7C07CD31F690}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{09BE6126-0CF0-4BCF-AF6F-1BFFACA78361}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		Proiect_Bonus\bin\Debug\net6.0\Data\Echipe.txt = Proiect_Bonus\bin\Debug\net6.0\Data\Echipe.txt
+		Proiect_Bonus\bin\Debug\net6.0\Data\Jucatori.txt = Proiect_Bonus\bin\Debug\net6.0\Data\Jucatori.txt
+		Proiect_Bonus\bin\Debug\net6.0\Data\JucatoriActivi.txt = Proiect_Bonus\bin\Debug\net6.0\Data\JucatoriActivi.txt
+		Proiect_Bonus\bin\Debug\net6.0\Data\Meciuri.txt = Proiect_Bonus\bin\Debug\net6.0\Data\Meciuri.txt
+		Proiect_Bonus\bin\Debug\net6.0\Data\Scoli.txt = Proiect_Bonus\bin\Debug\net6.0\Data\Scoli.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53E331D6-771C-4A60-8E65-7C07CD31F690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E331D6-771C-4A60-8E65-7C07CD31F690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E331D6-771C-4A60-8E65-7C07CD31F690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E331D6-771C-4A60-8E65-7C07CD31F690}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {875330AC-F484-411F-A2DC-D059FB30B634}
+	EndGlobalSection
+EndGlobal

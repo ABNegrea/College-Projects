@@ -1,0 +1,4 @@
+53762c7c-9e4a-47ca-ac14-93124df605f7;Washington Wizards;San Antonio Spurs;22/08/2022
+53762c7c-9e4a-47ca-ac14-93124df605f8;Washington Wizards;Orlando Magic;21/08/2022
+53762c7c-9e4a-47ca-ac14-93124df605f9;Indiana Pacers;Washington Wizards;13/05/2021
+53762c7c-9e4a-47ca-ac14-93124df605f2;San Antonio Spurs;Orlando Magic;05/01/2023

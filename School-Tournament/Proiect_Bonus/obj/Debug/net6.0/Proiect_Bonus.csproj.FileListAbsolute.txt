@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Proiect_Bonus\Proiect_Bonus\obj\Debug\net6.0\Proiect_Bonus.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Proiect_Bonus\Proiect_Bonus\obj\Debug\net6.0\Proiect_Bonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Proiect_Bonus\Proiect_Bonus\obj\Debug\net6.0\Proiect_Bonus.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Proiect_Bonus\Proiect_Bonus\obj\Debug\net6.0\Proiect_Bonus.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Proiect_Bonus\Proiect_Bonus\obj\Debug\net6.0\Proiect_Bonus.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Proiect_Bonus\Proiect_Bonus\bin\Debug\net6.0\Proiect_Bonus.exe
+C:\Users\Asus\Desktop\Proiect_Bonus\Proiect_Bonus\bin\Debug\net6.0\Proiect_Bonus.deps.json
+C:\Users\Asus\Desktop\Proiect_Bonus\Proiect_Bonus\bin\Debug\net6.0\Proiect_Bonus.runtimeconfig.json
+C:\Users\Asus\Desktop\Proiect_Bonus\Proiect_Bonus\bin\Debug\net6.0\Proiect_Bonus.dll
+C:\Users\Asus\Desktop\Proiect_Bonus\Proiect_Bonus\bin\Debug\net6.0\Proiect_Bonus.pdb
+C:\Users\Asus\Desktop\Proiect_Bonus\Proiect_Bonus\obj\Debug\net6.0\Proiect_Bonus.dll
+C:\Users\Asus\Desktop\Proiect_Bonus\Proiect_Bonus\obj\Debug\net6.0\refint\Proiect_Bonus.dll
+C:\Users\Asus\Desktop\Proiect_Bonus\Proiect_Bonus\obj\Debug\net6.0\Proiect_Bonus.pdb
+C:\Users\Asus\Desktop\Proiect_Bonus\Proiect_Bonus\obj\Debug\net6.0\Proiect_Bonus.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Proiect_Bonus\Proiect_Bonus\obj\Debug\net6.0\ref\Proiect_Bonus.dll
