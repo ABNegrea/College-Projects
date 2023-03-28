@@ -1,0 +1,22 @@
+[2022-05-12 04:29:20] [info] Start Program:
+Path:"D:\Folder Facultate\Anul 1 Semestrul 2\Programare Orientata Obiect\Laborator10 OOP\Laborator10OOP\x64\Debug\Laborator10OOP.exe"
+Arguments:
+Working directory: "D:\Folder Facultate\Anul 1 Semestrul 2\Programare Orientata Obiect\Laborator10 OOP\Laborator10OOP\Laborator10OOP\"
+Modules: Selected: D:\Folder Facultate\Anul 1 Semestrul 2\Programare Orientata Obiect\Laborator10 OOP\Laborator10OOP\x64\Debug\Laborator10OOP.exe Excluded: 
+Sources: Selected: D:\Folder Facultate\Anul 1 Semestrul 2\Programare Orientata Obiect\Laborator10 OOP\Laborator10OOP\Laborator10OOP Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Asus\AppData\Local\Temp\0xm11th1.njj 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2022-05-12 04:29:20] [info] Module: D:\Folder Facultate\Anul 1 Semestrul 2\Programare Orientata Obiect\Laborator10 OOP\Laborator10OOP\x64\Debug\Laborator10OOP.exe is selected because it matches selected pattern: D:\Folder Facultate\Anul 1 Semestrul 2\Programare Orientata Obiect\Laborator10 OOP\Laborator10OOP\x64\Debug\Laborator10OOP.exe
+[2022-05-12 04:29:20] [info] ----------------------------------------------------
+[2022-05-12 04:29:20] [info] Coverage binary generated in file: C:\Users\Asus\AppData\Local\Temp\0xm11th1.njj
+[2022-05-12 04:29:20] [info] ----------------------------------------------------
+[2022-05-12 04:29:20] [error] Your program stop with error code: -1073741515
