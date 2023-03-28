@@ -1,0 +1,22 @@
+D:\Folder Facultate\Anul 2 Semestrul 2\Sisteme de Gestiune a Bazelor de Date\Rezolvare Laboratoare SGBD\Laborator1 SGBD\Laborator1 SGBD\bin\Debug\Laborator1 SGBD.exe.config
+D:\Folder Facultate\Anul 2 Semestrul 2\Sisteme de Gestiune a Bazelor de Date\Rezolvare Laboratoare SGBD\Laborator1 SGBD\Laborator1 SGBD\bin\Debug\Laborator1 SGBD.exe
+D:\Folder Facultate\Anul 2 Semestrul 2\Sisteme de Gestiune a Bazelor de Date\Rezolvare Laboratoare SGBD\Laborator1 SGBD\Laborator1 SGBD\bin\Debug\Laborator1 SGBD.pdb
+D:\Folder Facultate\Anul 2 Semestrul 2\Sisteme de Gestiune a Bazelor de Date\Rezolvare Laboratoare SGBD\Laborator1 SGBD\Laborator1 SGBD\obj\Debug\Laborator1 SGBD.csproj.AssemblyReference.cache
+D:\Folder Facultate\Anul 2 Semestrul 2\Sisteme de Gestiune a Bazelor de Date\Rezolvare Laboratoare SGBD\Laborator1 SGBD\Laborator1 SGBD\obj\Debug\Laborator1 SGBD.csproj.SuggestedBindingRedirects.cache
+D:\Folder Facultate\Anul 2 Semestrul 2\Sisteme de Gestiune a Bazelor de Date\Rezolvare Laboratoare SGBD\Laborator1 SGBD\Laborator1 SGBD\obj\Debug\Laborator1_SGBD.Form1.resources
+D:\Folder Facultate\Anul 2 Semestrul 2\Sisteme de Gestiune a Bazelor de Date\Rezolvare Laboratoare SGBD\Laborator1 SGBD\Laborator1 SGBD\obj\Debug\Laborator1_SGBD.Properties.Resources.resources
+D:\Folder Facultate\Anul 2 Semestrul 2\Sisteme de Gestiune a Bazelor de Date\Rezolvare Laboratoare SGBD\Laborator1 SGBD\Laborator1 SGBD\obj\Debug\Laborator1 SGBD.csproj.GenerateResource.cache
+D:\Folder Facultate\Anul 2 Semestrul 2\Sisteme de Gestiune a Bazelor de Date\Rezolvare Laboratoare SGBD\Laborator1 SGBD\Laborator1 SGBD\obj\Debug\Laborator1 SGBD.csproj.CoreCompileInputs.cache
+D:\Folder Facultate\Anul 2 Semestrul 2\Sisteme de Gestiune a Bazelor de Date\Rezolvare Laboratoare SGBD\Laborator1 SGBD\Laborator1 SGBD\obj\Debug\Laborator1 SGBD.exe
+D:\Folder Facultate\Anul 2 Semestrul 2\Sisteme de Gestiune a Bazelor de Date\Rezolvare Laboratoare SGBD\Laborator1 SGBD\Laborator1 SGBD\obj\Debug\Laborator1 SGBD.pdb
+D:\Folder Facultate\Anul 2 Semestrul 2\Sisteme de Gestiune a Bazelor de Date\Rezolvari Laboratoare SGBD\Laborator1 SGBD\Laborator1 SGBD\bin\Debug\Laborator1 SGBD.exe.config
+D:\Folder Facultate\Anul 2 Semestrul 2\Sisteme de Gestiune a Bazelor de Date\Rezolvari Laboratoare SGBD\Laborator1 SGBD\Laborator1 SGBD\bin\Debug\Laborator1 SGBD.exe
+D:\Folder Facultate\Anul 2 Semestrul 2\Sisteme de Gestiune a Bazelor de Date\Rezolvari Laboratoare SGBD\Laborator1 SGBD\Laborator1 SGBD\bin\Debug\Laborator1 SGBD.pdb
+D:\Folder Facultate\Anul 2 Semestrul 2\Sisteme de Gestiune a Bazelor de Date\Rezolvari Laboratoare SGBD\Laborator1 SGBD\Laborator1 SGBD\obj\Debug\Laborator1 SGBD.csproj.AssemblyReference.cache
+D:\Folder Facultate\Anul 2 Semestrul 2\Sisteme de Gestiune a Bazelor de Date\Rezolvari Laboratoare SGBD\Laborator1 SGBD\Laborator1 SGBD\obj\Debug\Laborator1 SGBD.csproj.SuggestedBindingRedirects.cache
+D:\Folder Facultate\Anul 2 Semestrul 2\Sisteme de Gestiune a Bazelor de Date\Rezolvari Laboratoare SGBD\Laborator1 SGBD\Laborator1 SGBD\obj\Debug\Laborator1_SGBD.Form1.resources
+D:\Folder Facultate\Anul 2 Semestrul 2\Sisteme de Gestiune a Bazelor de Date\Rezolvari Laboratoare SGBD\Laborator1 SGBD\Laborator1 SGBD\obj\Debug\Laborator1_SGBD.Properties.Resources.resources
+D:\Folder Facultate\Anul 2 Semestrul 2\Sisteme de Gestiune a Bazelor de Date\Rezolvari Laboratoare SGBD\Laborator1 SGBD\Laborator1 SGBD\obj\Debug\Laborator1 SGBD.csproj.GenerateResource.cache
+D:\Folder Facultate\Anul 2 Semestrul 2\Sisteme de Gestiune a Bazelor de Date\Rezolvari Laboratoare SGBD\Laborator1 SGBD\Laborator1 SGBD\obj\Debug\Laborator1 SGBD.csproj.CoreCompileInputs.cache
+D:\Folder Facultate\Anul 2 Semestrul 2\Sisteme de Gestiune a Bazelor de Date\Rezolvari Laboratoare SGBD\Laborator1 SGBD\Laborator1 SGBD\obj\Debug\Laborator1 SGBD.exe
+D:\Folder Facultate\Anul 2 Semestrul 2\Sisteme de Gestiune a Bazelor de Date\Rezolvari Laboratoare SGBD\Laborator1 SGBD\Laborator1 SGBD\obj\Debug\Laborator1 SGBD.pdb
